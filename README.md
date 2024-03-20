@@ -1,9 +1,9 @@
-# Spam Mail Prediction
+# Titanic Survival Prediction
 
-This web app is developed to predict whether a mail is spam or not. The model is built using the Logistic Regression algorithm.
+This web app is a simple Titanic Survival Prediction web app. The web app uses a logistic regression model to predict whether the mail is spam or not.
     
-<img width="960" alt="image" src="https://github.com/gokulnpc/Spam-Mail-Prediction/assets/105941681/1ae7221f-77a0-4c29-8b55-b6ed161ef6f0">
+<img width="960" alt="image" src="https://github.com/gokulnpc/Titanic-Survival-Prediction/assets/105941681/967cf5a9-aa8e-4831-976d-6bc0f2b580bd">
 
-<img width="960" alt="image" src="https://github.com/gokulnpc/Spam-Mail-Prediction/assets/105941681/a20a766a-7649-42bd-91f7-a3b88b26fb02">
+<img width="960" alt="image" src="https://github.com/gokulnpc/Titanic-Survival-Prediction/assets/105941681/36699f3c-89b1-4189-82a2-9fce8c9af34e">
 
-<img width="960" alt="image" src="https://github.com/gokulnpc/Spam-Mail-Prediction/assets/105941681/ad500ea0-282b-4b52-8b27-eabfcde19e7a">
+<img width="960" alt="image" src="https://github.com/gokulnpc/Titanic-Survival-Prediction/assets/105941681/8f2e37e0-4a44-4e40-8de3-f0a66494b16d">
